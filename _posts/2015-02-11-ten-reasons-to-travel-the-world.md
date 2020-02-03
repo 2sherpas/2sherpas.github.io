@@ -13,7 +13,7 @@ show_related_posts: false
 square_related: recommend-wolf
 ---
 
-Ask yourself, why not? What is the number one reason you wouldn't. If the reason you get back is fear, you should just do it.
+Ask yourself why not? What is the number one reason you wouldn't. If the reason you get back is fear, you should just do it.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati doloribus, culpa, et suscipit praesentium incidunt, libero officiis ipsum fugiat odit aperiam commodi unde dignissimos veritatis accusamus molestias iste magni nobis?
 
