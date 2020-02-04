@@ -22,16 +22,17 @@ So lets go back to who am I, I think I will define myself as a endurance guy, I 
 
 If I have find out what type of manager I am, now I will try to understand how that affect the way a manage people. It would be important to find those aspect of running that I carry to other areas of my life, in this case managing people.
 
-Characteristic of a long distance runner
+**Characteristic of a long distance runner
 
-More mind less Legs
+> More mind less Legs
 Running long distances is mostly a mind game, it is not about being physically strong or fit, it is about trusting yourself and not letting the current moment take away the end goal. Most people will think that running long distance is about getting your legs ready, and yes you must do that but your legs will carry you as long as your brain can remain focus on the end goal and forgot about the momentary pain.
 
 How do I translate that idea to team management? I can’t see a team working at full capacity if the team is just made of legs, and by legs I mean really good developers that are focus just on coding; the Team needs a strong mind that keep them going, and that mind is not the team leader, that mind is the team spirit. I try to spend a big time thinking about how to increase the team spirit, how to make the team understand the end goal and push for it, not because someone ask for it but because the team as a unit wants it. Building a team is like creating a training plan, you must have a clear goal and then you must know the strong points and the weakness of the runner (in this case the team) to create the perfect training plan.
 I have seen many manager worrying just about the developers (their legs) and not paying attention to the team spirit (the mind) and that in some cases works but don’t get confuse, you don’t have a team you have a group, it is really important for me to understand the difference between a group and a team. A group will never be as powerful as a team. 
 Of course a good team needs to have good legs not just a strong mind, but the best legs in the world won’t carry you for 26 miles if your mind is not able to go through the temporary pain and discomfort and focus on the end goal.
 
-Head down
+> Head down
+
 If you have run longs distances you know what I mean, head down is something that we all know it will happen, we don’t know when, we don’t know for how long and we don’t know how to avoid it but if you are a long distance runner you know how to deal with it, you just keep your head down and focus on the foot of the runner in front of you, forgot about the time, the distance, the pain… all that must go to a second level, a level where it can’t mess with your end goal; you just focus on the foot of the runner in front of you and keep moving. Why you do that? Because you trust the work you have done, the preparation and the hours you train and know that temporary pain is just a fee you pay for the end goal.
 So back to the same question? How do you translate to team management? A strong team must trust each other and know that not every project and every task will go as planned, not all of them will finished without discomfort, without temporary pain; but a strong team know that if they trust the journey, the learnings, the preparation and the capacities of the team, then there is no task that can’t be accomplished.
 A successfully team  is not a team that deliver on time every time, because every team will eventually fail, a successful team is the team that face a challenge and remains strong, united and focus, a team that won’t panic when things are not as planned. A strong successful team will be able to work as a unit under the worst circumstances. 
