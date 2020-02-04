@@ -39,5 +39,3 @@ So back to the same question? How do you translate to team management? A strong 
 A successfully team  is not a team that deliver on time every time, because every team will eventually fail, a successful team is the team that face a challenge and remains strong, united and focus, a team that won’t panic when things are not as planned. A strong successful team will be able to work as a unit under the worst circumstances. 
 
 
-![Grow image]({{site.url}}/{{site.baseurl}}img/post-assets/grow.jpg)
-
