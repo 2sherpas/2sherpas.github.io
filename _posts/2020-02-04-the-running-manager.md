@@ -12,7 +12,7 @@ feature_image: feature-running
 show_related_posts: false
 square_related: recommend-wolf
 ---
-I had always wonder if someone can be a good manager trying to follow someone else way; to be a good manager should be the capacity to be a good leader, and to lead should be the capacity to inspire people, motivate people and help them be themselves, leading is not making people follow you, in my opinion that’s dependency and dependency is a dangerous game.
+I have always wondered if someone can be a good manager trying to follow someone else way; to be a good manager should be the capacity to be a good leader, and to lead should be the capacity to inspire people, motivate people and help them be themselves, leading is not making people follow you, in my opinion that’s dependency and dependency is a dangerous game.
 
 Every time I have had the opportunity to take care of a group of people I had tried my best to be myself, to show the true me with all the defects and all the dreams that I carry along the way.
 
@@ -39,5 +39,5 @@ So back to the same question? How do you translate to team management? A strong 
 A successfully team  is not a team that deliver on time every time, because every team will eventually fail, a successful team is the team that face a challenge and remains strong, united and focus, a team that won’t panic when things are not as planned. A strong successful team will be able to work as a unit under the worst circumstances. 
 
 
-![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/fire.jpg)
+![Fire image]({{site.url}}/{{site.baseurl}}img/post-assets/grow.jpg)
 
