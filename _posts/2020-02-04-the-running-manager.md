@@ -2,7 +2,7 @@
 layout: post
 title:  "The running manager"
 date: 2020-02-04 11:00:00
-categories: travel storytime
+categories: leadership
 author_name : David Antona
 author_url : /author/david
 author_avatar: david
