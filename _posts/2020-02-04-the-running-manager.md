@@ -25,6 +25,7 @@ If I have find out what type of manager I am, now I will try to understand how t
 **Characteristic of a long distance runner
 
 > More mind less Legs
+
 Running long distances is mostly a mind game, it is not about being physically strong or fit, it is about trusting yourself and not letting the current moment take away the end goal. Most people will think that running long distance is about getting your legs ready, and yes you must do that but your legs will carry you as long as your brain can remain focus on the end goal and forgot about the momentary pain.
 
 How do I translate that idea to team management? I can’t see a team working at full capacity if the team is just made of legs, and by legs I mean really good developers that are focus just on coding; the Team needs a strong mind that keep them going, and that mind is not the team leader, that mind is the team spirit. I try to spend a big time thinking about how to increase the team spirit, how to make the team understand the end goal and push for it, not because someone ask for it but because the team as a unit wants it. Building a team is like creating a training plan, you must have a clear goal and then you must know the strong points and the weakness of the runner (in this case the team) to create the perfect training plan.
