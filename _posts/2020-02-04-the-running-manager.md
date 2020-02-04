@@ -7,7 +7,7 @@ author_name : David Antona
 author_url : /author/david
 author_avatar: david
 show_avatar : true
-read_time : 34
+read_time : 30
 feature_image: feature-running
 show_related_posts: false
 square_related: recommend-wolf
