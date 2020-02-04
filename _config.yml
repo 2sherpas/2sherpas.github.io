@@ -1,9 +1,7 @@
 # Site settings
-title: Writer Theme
-email: help@writer-theme.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+title: 2Sherpas Blog
+email: 2SherpasTeam@gmail.com.com
+description: Our space to express how we see the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 enable_retina: false
@@ -15,10 +13,10 @@ nav_list:
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/michelle', 'fa-user']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>Our space to express how we see the world <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Writer 2016', '/about']
+    Writer: ['2Sherpas', '/about']
 
 
 # Build settings
