@@ -22,7 +22,7 @@ So lets go back to who am I, I think I will define myself as a endurance guy, I 
 
 If I have find out what type of manager I am, now I will try to understand how that affect the way a manage people. It would be important to find those aspect of running that I carry to other areas of my life, in this case managing people.
 
-**Characteristic of a long distance runner
+## Characteristic of a long distance runner
 
 > More mind less Legs
 
