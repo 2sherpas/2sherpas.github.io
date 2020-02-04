@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/david/
-feature_image: feature-plantpot
+feature_image: blueRope
 author_avatar: david
 author_name: David Antona
 title: David Antona
