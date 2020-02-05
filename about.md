@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature_image: feature-book
+feature_image: feature-about
 ---
 
 ## 2 Sherpas - Who are we?
