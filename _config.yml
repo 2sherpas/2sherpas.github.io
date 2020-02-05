@@ -8,11 +8,10 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Home', '/', 'fa-home']
-  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
-  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-  Contact : ['Contact', '/contact', 'fa-plane']
-  Author : ['Author', '/author/michelle', 'fa-user']
+  About : ['About', '/about', 'fa-info']
+  Contact : ['Contact', '/contact', 'fa-send']
+  David : ['David', '/author/david', 'fa-user']
+  Jaime : ['Jaime', '/author/jaime', 'fa-laptop']
 single_footer: '<p>Our space to express how we see the world <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
