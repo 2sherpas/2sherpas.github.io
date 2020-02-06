@@ -8,7 +8,7 @@ author_url : /author/jaime
 author_avatar: jaime
 show_avatar : true
 read_time : 6
-feature_image: feature-ruby
+feature_image: feature-clojure
 show_related_posts: true
 square_related: recommend-spain
 ---
