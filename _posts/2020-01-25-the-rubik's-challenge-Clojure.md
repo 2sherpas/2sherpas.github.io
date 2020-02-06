@@ -21,6 +21,10 @@ Today it's time to play with Clojure. I suppose that there should be one (or man
 According to that survey, is on top of languages like Dart, Go or C++ so there must be something powerful inside Clojure.
 My opinion is that Clojure has two key attributes. The first one is that Clojure is a functional language and this programming paradigm is getting more and more attention in the community and the seconde one is that Clojure is hosted in the JVM so it can consume all the Java libraries. We just need to import and reference them in our Clojure code. Sounds like the perfect combination
 
+The first thing that I noticed different is it syntax : )
+
+![parentheses]({{site.url}}/{{site.baseurl}}img/post-assets/clojure.png)
+
 ## Validating Lenght
 
 Let's start with the function that validates the lenght:
