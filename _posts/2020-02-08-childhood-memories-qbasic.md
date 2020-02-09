@@ -7,7 +7,7 @@ author_name : Jaime Salcedo
 author_url : /author/jaime
 author_avatar: jaime
 show_avatar : true
-read_time : 25
+read_time : 12
 feature_image: feature-qbasic
 show_related_posts: true
 square_related: recommend-spain
