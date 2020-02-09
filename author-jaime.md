@@ -10,7 +10,7 @@ title: Jaime Salcedo
 
 # Jaime Salcedo
 
-I started coding in 1995 the age of 8 when I asked my parents to sign me up to QBasic training, all my classmates were 10-15 years older than me. My parents challenged me to pass the course and they would buy me a computer; a Toshiba 2200sx, my first laptop.
+I started coding in 1995 the age of 7 when I asked my parents to sign me up to QBasic training, all my classmates were 10-15 years older than me. My parents challenged me to pass the course and they would buy me a computer; a Toshiba 2200sx, my first laptop.
 
 From that moment I knew that I wanted to be a developer, I have programmed from web pages to video games and even today I am still looking for new motivations and learning every day. 
 
