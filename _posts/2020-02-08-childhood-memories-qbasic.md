@@ -27,7 +27,9 @@ I tried to do something using all the things that I learn during the first week:
 I don't have the source code of my first program but I still remember how it looked like.
 The program prompted to the user about its name and after that a nice stick man greets it:
 
+{:refdef: style="text-align: center;"}
 ![pgm-gif]({{site.url}}/{{site.baseurl}}img/post-assets/qbasic_img_0.gif)
+{: refdef}
 
 I've replicated it trying to imagine how I would do it with when I was 7 and using a fantastic [QBasic emulator](https://www.qb64.org/portal/) for mac; and this is the result:
 
@@ -81,7 +83,7 @@ At this step of the experiment I feel very nostalgic but I though that It could 
 What a great childhood memories...
 ![toshiba]({{site.url}}/{{site.baseurl}}img/post-assets/qbasic_img_1.jpg)
 
-Experiment completed!
+Experiment completed, challenge achieved!
 ![toshiba2]({{site.url}}/{{site.baseurl}}img/post-assets/qbasic_img_2.jpg)
 
 Have a nice weekend!
