@@ -10,7 +10,7 @@ show_avatar : true
 read_time : 15
 feature_image: feature-fsharp
 show_related_posts: true
-square_related: recommend-spain
+square_related: recommend-coding
 ---
 
 <br>

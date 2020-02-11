@@ -10,7 +10,7 @@ show_avatar : true
 read_time : 5
 feature_image: feature-rubik
 show_related_posts: true
-square_related: recommend-spain
+square_related: recommend-coding
 ---
 <br>
 I love Rubik's cube, when you get one of these, it's all about investigating, moving colours from one place to another without a clear strategy trying to figure out how to solve it. At the begining you don't care if your way to solve it is the best one or the fastest one bbut you get a kind of nirvana when you get it done.
