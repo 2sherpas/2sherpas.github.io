@@ -26,7 +26,7 @@ Let's assume that you have an REST API and you want to check how GraphQL works; 
 ## Our Rest API
 
 For this example we are going to use a [beeceptor](http://beeceptor.com) to generate a couple of mock endpoints.  
-The first one: `/api/v1/employees` will retrieve an array of employees and the second one  `/api/v1/employee/{id}` will return only the data of an specific employee.
+The first one: `/api/v1/employees` will return an array of employees and the second one  `/api/v1/employee/{id}` will return only the data of an specific employee.
 
 Beeceptor allows you to make up to 50 calls per day under their free plan so it will be more than enough for this experiment.
 
@@ -45,9 +45,9 @@ The data returned by the Rest API will have the following simple structure.
 
 ##  Our use case
 
-Now suppose that we would like to show in our frontend the only the users ids. With Rest we would query the /users endpoint and once we get the response we filter / discard the additional fields. That force us to retrieve sensitive data that we don't need and there is where GraphQL comes to the rescue.
+Now suppose that we would like to show in our frontend the only the employee names. With Rest we would query the /employees endpoint and once we get the response we filter / discard the additional fields. That force us to deal with data that we don't need and there is where GraphQL comes to the rescue.
 
-Rest is a server-drive approach however GraphQL is a client-driven strategy, it means that is the client (Mobile or Web) the one that is driven the conversation fetching the data that it needs; it makes GraphQL faster than REST and it could also speed up your development in the frontend as you don't need to deal with unneccesary data. 
+Rest is a server-drive approach however GraphQL is a client-driven strategy, it means that is the client (Mobile or Web) the one that is driven the conversation fetching the data that it needs; it makes GraphQL faster than REST and it could also speed up your development in the client-side as you don't need to deal with unneccesary data. 
 
 {:refdef: style="text-align: center;"}
 ![aws_appsync_2]({{site.url}}/{{site.baseurl}}img/post-assets/appsync_img_2.jpeg)
@@ -57,11 +57,11 @@ Rest is a server-drive approach however GraphQL is a client-driven strategy, it 
 
 ## Introducing AppSync
 
-AppSync is a tool within the AWS ecosystem, it allows you to define a GraphQL schema and connect it with diferent resolvers as http endpoints, databases, AWS Lambdas etc...
+AppSync is a tool within the AWS ecosystem, it allows you to define a GraphQL schema and connect it with diferent resolvers like http endpoints, databases, AWS Lambdas etc...
 
-But just to reduce the scope of our article, we are going to focus only in Http resolvers and to not overcomplicate the example, we are going to use the web interface of AWS. The same example can be replicated using the terminal or CloudFormation.
+But just to reduce the scope of our article, we are going to focus only in Http resolvers and to not overcomplicate the example. We are going to use the web interface of AWS but the same example can be replicated using the terminal or CloudFormation.
 
-First we need to login in the AWS console and look for **AppSync**, at the top right corner you have a button that sais "Create API" that will bbe our starting point.
+First we need to login in the AWS console and select **AppSync**, at the top right corner you have a button that sais "Create API" that will be our starting point.
 
 AWS provides a good wizard if you want to build your GraphQL api in top of a DynamoDB but in our case, we will select "Build from Scratch".
 
@@ -84,12 +84,12 @@ We will focus on the three top ones as the other ones are more related to the AP
 ## Schema
 The schema will define how our API is structured, in other words; all the fields, it types and objects that could contains other objects.
 
-So how can we generate a GraphQL schema from the JSON object structure that we have in our REST? There are two ways, you can do it manually going through all the fields of the JSON and examinating their types or you can use a tool that can do it for you.
+So how can we generate a GraphQL schema from the JSON object structure that we have in our REST? There are two ways, you can do it manually going through all the fields of the JSON and examinating their types or you can use a tool that can do that task for you.
 
 If the JSON is very complex you can use tools like [json-to-simple-graphql-schema](https://github.com/walmartlabs/json-to-simple-graphql-schema) that can do the transformation for you using their [online editor](https://walmartlabs.github.io/json-to-simple-graphql-schema/) or using the command line tool:
 
 {% highlight shell %}
-$ cat users.json | npx json-to-simple-graphql-schema > our_schema.graphql
+$ cat employees.json | npx json-to-simple-graphql-schema > our_schema.graphql
 {% endhighlight %} 
 
 In our case our JSON is be very simple so we can build the GraphQL schema manually.
