@@ -225,7 +225,7 @@ Note that you could use the same query to filter with and without id just applyi
 ![aws_appsync_6]({{site.url}}/{{site.baseurl}}img/post-assets/appsync_img_6.jpeg)
 {: refdef}
 
-Not really, GraphQL is much more than this, are mutations, complex filtering, nested filtering, operators... But definetily this is a good starting point!
+Not really, GraphQL is much more than this; is complex filtering, mutations, nested filtering, operators... But definetily this is a good starting point!
 
 
 Have a nice week!
