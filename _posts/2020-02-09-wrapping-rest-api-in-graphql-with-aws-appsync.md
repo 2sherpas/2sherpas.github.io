@@ -45,7 +45,7 @@ The data returned by the Rest API will have the following simple structure.
 
 ##  Our use case
 
-Now suppose that we would like to show in our frontend the only the employee names. With Rest we would query the /employees endpoint and once we get the response we filter / discard the additional fields. That force us to deal with data that we don't need and there is where GraphQL comes to the rescue.
+Now suppose that we would like to show in our frontend only the employees names. With Rest we would query the `/employees` endpoint and once we would get the response we would filter it to discard the additional fields. That force us to deal with data that we don't need and there is where GraphQL comes to the rescue.
 
 Rest is a server-drive approach however GraphQL is a client-driven strategy, it means that is the client (Mobile or Web) the one that is driven the conversation fetching the data that it needs; it makes GraphQL faster than REST and it could also speed up your development in the client-side as you don't need to deal with unneccesary data. 
 
