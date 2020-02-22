@@ -33,7 +33,7 @@ The program prompted to the user about its name and after that a nice stick man 
 
 I've replicated it trying to imagine how I would do it with when I was 7 and using a fantastic [QBasic emulator](https://www.qb64.org/portal/) for mac; and this is the result:
 
-{% highlight qbasic %}
+{% highlight plaintext %}
 SCREEN 12
 DIM counter AS INTEGER
 DIM inputName AS STRING

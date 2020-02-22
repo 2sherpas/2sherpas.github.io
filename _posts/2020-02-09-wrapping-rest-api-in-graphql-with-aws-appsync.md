@@ -147,7 +147,7 @@ After select our Datasource. We need to put the following code in the Request ma
 
 And the following code in the response mapping template:
 
-{% highlight json %}
+{% highlight plaintext %}
 ## Raise a GraphQL field error in case of a datasource invocation error
 #if($ctx.error)
   $util.error($ctx.error.message, $ctx.error.type)

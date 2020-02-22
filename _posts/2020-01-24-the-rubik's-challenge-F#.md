@@ -71,7 +71,7 @@ invalidArg "inputNino" "The lenght of the nino is invalid"
 
 I tried to replicate the same behaviour than Ruby or Rust raising the exception if the lenght is incorrect and doing anything if the lenght is correct, but introducing a simple if statements give me more clues about why F# and functional programming is special:
 
-{% highlight fsharp %}
+{% highlight plaintext %}
 // From F# docummentation
 Unlike in other languages, the if...then...else construct is an expression, not a statement. 
 That means that it produces a value, which is the value of the last expression in the branch that executes. 
