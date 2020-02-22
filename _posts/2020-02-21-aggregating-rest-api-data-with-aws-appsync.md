@@ -40,7 +40,7 @@ Our endpoint `api/v1/employees` returns a list of employees, with their id, name
 }
 {% endhighlight %} 
 
-From that we will create a GraphQL schema as we did in the [other article]({% post_url 2020-02-09-wrapping-rest-api-in-graphql-with-aws-appsync %}:
+From that we will create a GraphQL schema as we did in the [other article]({% post_url 2020-02-09-wrapping-rest-api-in-graphql-with-aws-appsync %}):
 
 {% highlight graphql %}
 type Employee { 
@@ -54,7 +54,7 @@ type Query {
 	ListEmployees: [Employee]
 }
 {% endhighlight %}
-And after running a query againts our Appsync we will have a list of employees. 
+And after running that query in Appsync we will have a list of employees. 
 
 ## Agreggating data
 <br>
