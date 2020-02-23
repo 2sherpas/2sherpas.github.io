@@ -20,9 +20,9 @@ If you want to know an interesting fact about me, is that I love to collect vide
 ![my-gaming-room]({{site.url}}/{{site.baseurl}}img/post-assets/atari-i-0.jpg)
 {: refdef}
 
-Why? Because It was the my first video console and I spent big part of my childhood playing to Keystone Kapers or Pitfall.
+Why? Because It was my first video console and I spent big part of my childhood playing to Keystone Kapers or Pitfall.
 
-When I was a child, I was wondering how someone could schedule such cool games, so now that I grew up and I've been programming for years, it's time to answer that question.
+When I was a child, I was wondering how someone could program such cool games, so now that I grew up and I've been programming for years, it's time to answer that question.
 
 ## A bit of history
 <br>
