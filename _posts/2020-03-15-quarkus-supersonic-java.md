@@ -125,7 +125,7 @@ public class ExampleResource {
 }
 {% endhighlight %}
 
-And one of the good things about quarkus is the hot-swap feature, every time we make a change quarkus stops and starts the server almost instantly.
+And one of the good things about quarkus is the hot-reload feature, every time we make a change quarkus stops and starts the server almost instantly.
 
 {:refdef: style="text-align: center;"}
 ![quarkus-4]({{site.url}}/{{site.baseurl}}img/post-assets/quarkus-4.jpg)
@@ -133,7 +133,10 @@ And one of the good things about quarkus is the hot-swap feature, every time we 
 <br>
 ##  Simplified Hibernate ORM with Panache
 <br>
-Our program logic is quite simple, just a query againts our PostgreSQL DB so it's a nice scenario to use panache, according to it's documentation `Hibernate ORM with Panache focuses on making your entities trivial and fun to write in Quarkus.` so basically it's combining entities and repositories in a single class. let's see Panache in action:
+Our program logic is quite simple, just a query against our PostgreSQL DB so it's a nice scenario to use panache, according to it's documentation 
+> Hibernate ORM with Panache focuses on making your entities trivial and fun to write in Quarkus.
+
+so basically it's combining entities and repositories in a single class. let's see Panache in action:
 
 {% highlight java %}
 @Entity
@@ -152,7 +155,7 @@ public class Employee extends PanacheEntity {
 
 By extending `PanacheEntity` we automatically have all the common operations like `.findById(id)`, `findAll()`... plus our custom queries. In our case we've defined a custom query that list employees by departments.
 
-And that's all, no additional classes for repositories needed.
+And that's all, no additional classes for repositories needed. Really nice.
 
 We are going to write a simple test before to release the app, and we are good to go!:
 
@@ -169,7 +172,6 @@ public class ExampleResourceTest {
     }
 }
 {% endhighlight %}
-
 
 Once we have tested the application, we can package it running `mvn package -Pnative` this will generate native image.
 A native image contains the VM plus our code, so we can run it and check if it's really a supersonic app:
