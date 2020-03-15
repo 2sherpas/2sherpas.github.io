@@ -22,7 +22,7 @@ The JVM is a beast, and that beast is very powerful, but it swallows memory, it 
 ![quarkus-1]({{site.url}}/{{site.baseurl}}img/post-assets/quarkus-1.jpg)
 {: refdef}
 <br>
-But hold on, Quarkus comes to the rescue...
+But hold on, Quarkus comes to the rescue... wait wait, who is Quarkus?
 
 ## Quarkus - Supersonic Subatomic Java!
 <br>
