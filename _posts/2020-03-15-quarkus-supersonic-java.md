@@ -21,8 +21,9 @@ The JVM is a beast, and that beast is very powerful, but it swallows memory, it 
 {:refdef: style="text-align: center;"}
 ![quarkus-1]({{site.url}}/{{site.baseurl}}img/post-assets/quarkus-1.jpg)
 {: refdef}
-
 <br>
+But hold on, Quarkus comes to the rescue...
+
 ## Quarkus - Supersonic Subatomic Java!
 <br>
 What does it means? Quarkus has been designed thinking in serverless, containers and cloud based environments and this is it presentation letter:
@@ -45,7 +46,7 @@ For this example, we are going to use a PostgreSQL database of employee data, an
 // Create the table structure
 CREATE TABLE Employee (id int, name varchar(255), surname varchar(255), department varchar(255));
 
-// Load 1000 records in the DB
+// Load 30000 records in the DB
 INSERT INTO Employee (
     id, name, surname, department
 )
