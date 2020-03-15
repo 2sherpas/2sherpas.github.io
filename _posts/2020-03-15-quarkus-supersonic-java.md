@@ -79,7 +79,7 @@ For this specific example we are going to use the following dependencies `quarku
 <br>
 Once our zip is downloaded, we can unzip it and start encoding. Our project will have an end point to return a list of employees by department, this will return a huge JSON with over 1000 records because the idea of this experiment is to test how the quarkus behaves with a large amount of data.
 
-### Our controller
+## Our controller
 
 This is how our controller will looks like:
 
