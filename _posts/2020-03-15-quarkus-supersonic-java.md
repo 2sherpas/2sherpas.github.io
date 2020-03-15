@@ -130,6 +130,13 @@ And one of the good things about quarkus is the hot-reload feature, every time w
 {:refdef: style="text-align: center;"}
 ![quarkus-4]({{site.url}}/{{site.baseurl}}img/post-assets/quarkus-4.jpg)
 {: refdef}
+
+Completed in 0.679s!
+
+{:refdef: style="text-align: center;"}
+![quarkus-6]({{site.url}}/{{site.baseurl}}img/post-assets/quarkus-6.jpg)
+{: refdef}
+
 <br>
 ##  Simplified Hibernate ORM with Panache
 <br>
