@@ -13,21 +13,6 @@ show_related_posts: false
 square_related: recommend-wolf
 ---
 
----
-layout: post
-title:  "It's Linux an option?"
-date: 2020-03-16 09:00:00
-categories: journey
-author_name : David Antona
-author_url : /author/david
-author_avatar: david
-show_avatar : true
-read_time : 10
-feature_image: feature-linux2
-show_related_posts: false
-square_related: recommend-wolf
----
-
 
 I just wrote an article about Linux for [Kids](https://2sherpas.github.io/Linux-Kids) and it is something I really support and would like to see in more schools and pulic places but there is a bigger question probably, **it is Linux an option for everyone?**
 
