@@ -1,7 +1,7 @@
 ---
 layout: post-sidebar
 date: 2020-03-21
-title: "Build a Chatbot to send text messages with AWS Lex, AWS Lambda and SNS"
+title: "Building a Chatbot to send sms with AWS Lex, AWS Lambda and SNS"
 categories: coding
 author_name : Jaime Salcedo
 author_url : /author/jaime
