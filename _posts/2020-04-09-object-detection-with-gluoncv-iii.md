@@ -15,7 +15,7 @@ youtubeId: FE_TKchtK8g
 ---
 
 <br>
-In the [previous article]({% post_url 2020-04-08-image-recognition-with-gluoncv-ii %}) of this series, I did a small experiment with GluonCV using yolo network to detect objects into a photo.
+In the [previous article]({% post_url 2020-04-08-object-detection-with-gluoncv-ii %}) of this series, I did a small experiment with GluonCV using yolo network to detect objects into a photo.
 
 That was fun but not very useful since it just labels our objects, I will introduce a little more logic into our program to use the webcam to capture images and then the program will analyze the objects in the image so the computer can tell to my children whether that food is healthy or not.
 
