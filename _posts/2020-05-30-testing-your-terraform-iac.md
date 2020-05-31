@@ -300,7 +300,7 @@ TestOurDynamoDbTable 2020-05-30T22:57:36+01:00 logger.go:66: Initializing the ba
 
 You will notice that those tests are slower than the previous ones!
 
-## Final toughs
+## Final thoughts
 <br>
 So far so good, we have done 3 layers of tests: unit tests, pre-integration tests and integration tests. We can include these tests as individual steps in our deployment pipeline to automate the entire process and avoid manual errors
 
