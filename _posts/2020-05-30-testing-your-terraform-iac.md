@@ -17,7 +17,6 @@ Moving to a modern cloud like AWS, Azure or Google Cloud has many benefits, one 
 
 There are plenty of tutorials on the Internet about Terraform, but most of them skip one of the most important parts of building IaC, the tests.
 
-
 When I started to work with Terrraform, it was clear to me that I needed to define a robust testing strategy to avoid horror stories like the ones I have read on the internet about [deleting Production tables](https://coderbook.com/@marcus/prevent-terraform-from-recreating-or-deleting-resource/) by mistake. 
 
 
@@ -29,7 +28,6 @@ Let's start by define a simple AWS stack using terraform IaC.
 
 # Terraform IaC
 <br>
-
 There are a lot of good tutorials on the internet on how Terraform works, so I'm not going to go into detail on how to build a template but basically the following template implements a [DynamoDB](https://aws.amazon.com/dynamodb/) global table on AWS:
 
 {% highlight terraform %}
