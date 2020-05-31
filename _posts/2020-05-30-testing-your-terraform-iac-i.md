@@ -13,8 +13,6 @@ show_related_posts: true
 square_related: recommend-coding
 --- 
 
-<br>
-
 Moving to a modern cloud like AWS, Azure or Google Cloud has many benefits, one of them is the ability to provision infrastructure with just few clicks, you can automate this task using tools like Terraform, which is a tool to build infrastructure as code.
 
 There are plenty of tutorials on the Internet about Terraform, but most of them skip one of the most important parts of building IaC, the tests.
